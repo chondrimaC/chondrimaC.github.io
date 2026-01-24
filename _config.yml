@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpg"
+  avatar           : profile_pic.jpg
   avatar_location  : images
   name             : "chondrimaC/github.io"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Chattogram, Bangladesh"
   employer         : "Janata Bank PLC."
