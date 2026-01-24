@@ -23,9 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  author_profile   : true
-  avatar           : profile-pic.JPG
-  avatar_location  : images
+  avatar           : bio-photo.jpg
   name             : "chondrimaC/github.io"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
