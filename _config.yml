@@ -24,6 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpg"
+  avatar_location  : images
   name             : "chondrimaC/github.io"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
