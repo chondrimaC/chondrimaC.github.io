@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Chondrima's Homepage"
+title                    : "Chondrima Chowdhury"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "chondrimaC/chondrimaC.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "chondrimaC/github.io"
+  name             : "Chondrima Chowdhury"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Motivated by building a better life and contributing positively to the world, with an interest in learning through travel and cross-cultural experiences."
   location         : "Chattogram, Bangladesh"
   employer         : "Janata Bank PLC."
   uri              : # URL
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chondrimac" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
